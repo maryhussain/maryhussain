@@ -1,4 +1,4 @@
-# Hi, my name is Mary 👋
+# Hi,I'm Mary 👋
 
 🎓 IT Engineering | 🌱 Django Developer  
 
@@ -16,10 +16,3 @@
 ## 📊 GitHub Stats
 ![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryhussain&show_icons=true&theme=radical)
 
----
-
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
